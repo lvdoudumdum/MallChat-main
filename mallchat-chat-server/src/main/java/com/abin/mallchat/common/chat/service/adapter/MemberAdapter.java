@@ -5,7 +5,7 @@ import com.abin.mallchat.common.chat.domain.enums.GroupRoleEnum;
 import com.abin.mallchat.common.chat.domain.vo.response.ChatMemberListResp;
 import com.abin.mallchat.common.user.domain.entity.User;
 import com.abin.mallchat.common.user.domain.entity.UserFriend;
-import com.abin.mallchat.common.user.domain.enums.WSBaseResp;
+import com.abin.mallchat.common.user.domain.vo.response.ws.WSBaseResp;
 import com.abin.mallchat.common.user.domain.enums.WSRespTypeEnum;
 import com.abin.mallchat.common.user.domain.vo.response.ws.ChatMemberResp;
 import com.abin.mallchat.common.user.domain.vo.response.ws.WSMemberChange;

@@ -12,7 +12,7 @@ import com.abin.mallchat.common.chat.service.cache.GroupMemberCache;
 import com.abin.mallchat.common.common.exception.CommonErrorEnum;
 import com.abin.mallchat.common.common.exception.GroupErrorEnum;
 import com.abin.mallchat.common.common.utils.AssertUtil;
-import com.abin.mallchat.common.user.domain.enums.WSBaseResp;
+import com.abin.mallchat.common.user.domain.vo.response.ws.WSBaseResp;
 import com.abin.mallchat.common.user.domain.vo.response.ws.WSMemberChange;
 import com.abin.mallchat.common.user.service.impl.PushService;
 import org.springframework.beans.factory.annotation.Autowired;

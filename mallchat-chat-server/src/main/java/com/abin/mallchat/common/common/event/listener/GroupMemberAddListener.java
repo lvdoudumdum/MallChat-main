@@ -12,7 +12,7 @@ import com.abin.mallchat.common.chat.service.cache.MsgCache;
 import com.abin.mallchat.common.common.event.GroupMemberAddEvent;
 import com.abin.mallchat.common.user.dao.UserDao;
 import com.abin.mallchat.common.user.domain.entity.User;
-import com.abin.mallchat.common.user.domain.enums.WSBaseResp;
+import com.abin.mallchat.common.user.domain.vo.response.ws.WSBaseResp;
 import com.abin.mallchat.common.user.domain.vo.response.ws.WSMemberChange;
 import com.abin.mallchat.common.user.service.WebSocketService;
 import com.abin.mallchat.common.user.service.cache.UserInfoCache;

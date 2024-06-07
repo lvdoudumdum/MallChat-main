@@ -1,5 +1,6 @@
-package com.abin.mallchat.common.user.domain.enums;
+package com.abin.mallchat.common.user.domain.vo.response.ws;
 
+import com.abin.mallchat.common.user.domain.enums.WSRespTypeEnum;
 import lombok.Data;
 
 /**

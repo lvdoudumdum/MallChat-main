@@ -1,6 +1,6 @@
 package com.abin.mallchat.common.user.service;
 
-import com.abin.mallchat.common.user.domain.enums.WSBaseResp;
+import com.abin.mallchat.common.user.domain.vo.response.ws.WSBaseResp;
 import com.abin.mallchat.common.user.domain.vo.request.ws.WSAuthorize;
 import io.netty.channel.Channel;
 

@@ -12,7 +12,7 @@ import com.abin.mallchat.common.user.dao.UserDao;
 import com.abin.mallchat.common.user.domain.dto.WSChannelExtraDTO;
 import com.abin.mallchat.common.user.domain.entity.User;
 import com.abin.mallchat.common.user.domain.enums.RoleEnum;
-import com.abin.mallchat.common.user.domain.enums.WSBaseResp;
+import com.abin.mallchat.common.user.domain.vo.response.ws.WSBaseResp;
 import com.abin.mallchat.common.user.domain.vo.request.ws.WSAuthorize;
 import com.abin.mallchat.common.user.service.IRoleService;
 import com.abin.mallchat.common.user.service.LoginService;

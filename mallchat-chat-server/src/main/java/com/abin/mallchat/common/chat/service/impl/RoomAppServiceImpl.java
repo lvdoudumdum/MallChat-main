@@ -37,7 +37,7 @@ import com.abin.mallchat.common.common.utils.AssertUtil;
 import com.abin.mallchat.common.user.dao.UserDao;
 import com.abin.mallchat.common.user.domain.entity.User;
 import com.abin.mallchat.common.user.domain.enums.RoleEnum;
-import com.abin.mallchat.common.user.domain.enums.WSBaseResp;
+import com.abin.mallchat.common.user.domain.vo.response.ws.WSBaseResp;
 import com.abin.mallchat.common.user.domain.vo.response.ws.ChatMemberResp;
 import com.abin.mallchat.common.user.domain.vo.response.ws.WSMemberChange;
 import com.abin.mallchat.common.user.service.IRoleService;

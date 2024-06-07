@@ -42,7 +42,6 @@ public class WxPortalController {
             throw new IllegalArgumentException("请求参数非法，请核实!");
         }
 
-
         if (wxService.checkSignature(timestamp, nonce, signature)) {
             return echostr;
         }

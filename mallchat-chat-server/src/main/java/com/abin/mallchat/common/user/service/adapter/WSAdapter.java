@@ -8,7 +8,7 @@ import com.abin.mallchat.common.chat.domain.vo.response.ChatMessageResp;
 import com.abin.mallchat.common.chat.service.ChatService;
 import com.abin.mallchat.common.user.domain.entity.User;
 import com.abin.mallchat.common.user.domain.enums.ChatActiveStatusEnum;
-import com.abin.mallchat.common.user.domain.enums.WSBaseResp;
+import com.abin.mallchat.common.user.domain.vo.response.ws.WSBaseResp;
 import com.abin.mallchat.common.user.domain.enums.WSRespTypeEnum;
 import com.abin.mallchat.common.user.domain.vo.response.ws.*;
 import me.chanjar.weixin.mp.bean.result.WxMpQrCodeTicket;

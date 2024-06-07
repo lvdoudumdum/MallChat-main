@@ -1,6 +1,6 @@
 package com.abin.mallchat.common.common.domain.dto;
 
-import com.abin.mallchat.common.user.domain.enums.WSBaseResp;
+import com.abin.mallchat.common.user.domain.vo.response.ws.WSBaseResp;
 import com.abin.mallchat.common.user.domain.enums.WSPushTypeEnum;
 import lombok.AllArgsConstructor;
 import lombok.Data;

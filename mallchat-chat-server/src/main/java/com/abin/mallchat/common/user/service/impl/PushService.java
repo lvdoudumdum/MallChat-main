@@ -2,7 +2,7 @@ package com.abin.mallchat.common.user.service.impl;
 
 import com.abin.mallchat.common.common.constant.MQConstant;
 import com.abin.mallchat.common.common.domain.dto.PushMessageDTO;
-import com.abin.mallchat.common.user.domain.enums.WSBaseResp;
+import com.abin.mallchat.common.user.domain.vo.response.ws.WSBaseResp;
 import com.abin.mallchat.transaction.service.MQProducer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
